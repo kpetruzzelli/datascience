@@ -1,2 +1,2 @@
 # datascience
-Exploring tools and projects in data science.
+Uncovering hidden truths in sports with data science.
